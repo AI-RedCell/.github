@@ -1,5 +1,8 @@
 # Welcome to AI RedCell 🩸
-![RedCell Logo](.github/profile/RedCell.png)
+<p align="center">
+  <img src=".github/profile/RedCell.png" alt="RedCell Logo" width="150">
+</p>
+
 
 Hello and welcome!  
 
