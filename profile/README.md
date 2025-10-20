@@ -1,5 +1,5 @@
 # Welcome to AI RedCell 🩸
-![Logo](/logo.png)
+![Logo](/RedCell.png)
 
 Hello and welcome!  
 
