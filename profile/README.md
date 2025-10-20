@@ -1,4 +1,5 @@
 # Welcome to AI RedCell 🩸
+![Logo](assets/logo.png)
 
 Hello and welcome!  
 
